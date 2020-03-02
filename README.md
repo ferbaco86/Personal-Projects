@@ -11,3 +11,6 @@ https://github.com/ferbaco86/HTML-Forms-Project
 
 # Positioning Elements: NY Times Article page clone:
 https://github.com/FrancoRosa/nyt-clone
+
+# Working with Backgrounds and Gradients: Old Apple website clone:
+https://github.com/ferbaco86/Old-Apple-website-clone
