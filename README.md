@@ -14,3 +14,9 @@ https://github.com/FrancoRosa/nyt-clone
 
 # Working with Backgrounds and Gradients: Old Apple website clone:
 https://github.com/ferbaco86/Old-Apple-website-clone
+
+# Smashing Magazine Website view hierarchy heatmap:
+https://github.com/ferbaco86/smashing-mag-heatmap
+
+# The Next Web Clone: Working with Responsive Design:
+https://github.com/alvarorf/ResponsiveWebDesign-TNW
